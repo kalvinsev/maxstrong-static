@@ -1,4 +1,3 @@
-/* FONT Hellix pre-installed */
 
 * {
     margin: 0;
@@ -7,7 +6,7 @@
 
   @font-face{
     font-family: "Hellix-Regular";
-    src : url("font/Hellix-Regular.ttf");
+    src : url("fonts/Hellix-Regular.ttf");
   }
 
 
